@@ -7,7 +7,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="60"/>
 </p>
-
+ 
 <p align="center">
   Python • Pytest • Requests • Allure • Jenkins • GitHub
 </p> 
