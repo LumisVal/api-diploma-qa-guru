@@ -2,17 +2,23 @@
 
 
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="60"/>
-</p>
- 
-<p align="center">
-  Python • Pytest • Requests • Allure • Jenkins • GitHub
-</p> 
+![Allure Suites](./screenshot/allure_suites.png)
 
 
+
+![Create Booking Test](./screenshot/create_booking_test.png)
+
+
+
+![Update Booking Test](./screenshot/update_booking_test.png)
+
+
+
+![Jenkins Successful Build](./screenshot/jenkins_successful_build.png)                                                        
+
+
+
+![Allure Overview](./screenshot/allure_overview.png)
 
 
 
