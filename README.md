@@ -1,6 +1,23 @@
 🚀 API Diploma Project | Restful Booker
 
+[Allure Suites]
+![Allure Suites](./screenshot/allure_suites.png)
 
+
+[Create Booking Test]
+![Create Booking Test](./screenshot/create_booking_test.png)
+
+
+[Update Booking Test]
+![Update Booking Test](./screenshot/update_booking_test.png)
+
+
+[Jenkins Successful Build]
+![Jenkins Successful Build](./screenshot/jenkins_successful_build.png)                                                        
+
+
+[Allure Overview]
+![Allure Overview](./screenshot/allure_overview.png)
 
 
 
@@ -71,25 +88,6 @@ Delete booking
 Negative Tests
 Get nonexistent booking
 Delete booking without token
-
-[Allure Suites]
-![Allure Suites](./screenshot/allure_suites.png)
-
-
-[Create Booking Test]
-![Create Booking Test](./screenshot/create_booking_test.png)
-
-
-[Update Booking Test]
-![Update Booking Test](./screenshot/update_booking_test.png)
-
-
-[Jenkins Successful Build]
-![Jenkins Successful Build](./screenshot/jenkins_successful_build.png)                                                        
-
-
-[Allure Overview]
-![Allure Overview](./screenshot/allure_overview.png)
 
 
 
