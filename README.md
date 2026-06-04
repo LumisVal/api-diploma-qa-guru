@@ -70,6 +70,7 @@ api-diploma-qa-guru
 └── README.md
 
 
+
 🎯 Implemented Test Scenarios
 Authorization
 Create auth token
@@ -82,28 +83,26 @@ Delete booking
 Negative Tests
 Get nonexistent booking
 Delete booking without token
-📊 Allure Report
-Allure Overview
 
+## 📊 Allure Overview
 
+<img src="screenshot/allure_overview.png" width="900">
 
+## 📊 Allure Suites
 
-Allure Suites
+<img src="screenshot/allure_suites.png" width="900">
 
+## 📊 Create Booking Test
 
+<img src="screenshot/create_booking_test.png" width="900">
 
+## 📊 Update Booking Test
 
-Create Booking Test
+<img src="screenshot/update_booking_test.png" width="900">
 
+## ⚙ Jenkins Successful Build
 
-
-
-Update Booking Test
-
-
-
-
-⚙ Jenkins Integration
+<img src="screenshot/jenkins_successful_build.png" width="900">
 
 The project is executed automatically using Jenkins.
 
