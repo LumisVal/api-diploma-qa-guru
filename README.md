@@ -109,17 +109,23 @@ api-diploma-qa-guru
 
 ```bash
 pip install -r requirements.txt
+```
 
-Run all tests:
+### Run all tests
 
+```bash
 pytest tests
+```
 
-Generate Allure results:
+### Generate Allure results
 
+```bash
 pytest tests --alluredir=allure-results
+```
 
-Open Allure report:
+### Open Allure report
 
+```bash
 allure serve allure-results
 ```
 
