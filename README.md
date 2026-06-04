@@ -103,10 +103,11 @@ api-diploma-qa-guru
 
 
 
-🚀 Run Tests
+## 🚀 Run Tests
 
-Install dependencies:
+### Install dependencies
 
+```bash
 pip install -r requirements.txt
 
 Run all tests:
@@ -120,7 +121,7 @@ pytest tests --alluredir=allure-results
 Open Allure report:
 
 allure serve allure-results
-
+```
 
 ## 👨‍💻 Author
 
