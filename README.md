@@ -120,10 +120,22 @@ pytest tests --alluredir=allure-results
 Open Allure report:
 
 allure serve allure-results
-👨‍💻 Author
 
-Leonid Chaliy
 
-QA Automation Engineer Portfolio Project
+## 👨‍💻 Author
+
+<table>
+<tr>
+<td>
+
+**Leonid Chaliy**
+
+QA Automation Engineer
+
+Portfolio Project
 
 2026
+
+</td>
+</tr>
+</table>
